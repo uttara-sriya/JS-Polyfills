@@ -15,3 +15,10 @@ Contains most of common JS polyfills for understanding under the hood implementa
 12. [DebounceLeadingTrailing](polyfills/debounceLeadingAndTrailing.js)
 13. [Throttle](polyfills/throttle.js)
 14. [ThrottleLeadingTrailing](polyfills/throttleLeadingAndTrailing.js)
+15. [Promise](polyfills/Promise.js)
+
+
+
+Blogs
+1. [Dev.to](https://dev.to/uttarasriya)
+2. [Hashnode](https://sriya.hashnode.dev/)
