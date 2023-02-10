@@ -16,6 +16,9 @@ Contains most of common JS polyfills for understanding under the hood implementa
 13. [Throttle](polyfills/throttle.js)
 14. [ThrottleLeadingTrailing](polyfills/throttleLeadingAndTrailing.js)
 15. [Promise](polyfills/Promise.js)
+16. [Currying](polyfills/curry.js)
+17. [Memoization](polyfills/memoize.js)
+18. [GeneratorFunctions](polyfills/generatorFn.js)
 
 
 
